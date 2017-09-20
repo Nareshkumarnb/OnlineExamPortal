@@ -8,6 +8,5 @@ Steps to setup this webapplication in you workplace.<br>
 5.open config.php file and change the username,password,host with respect to your system.<br>
 6.Switch on the server (apache server and mysql).<br>
 7.run and enjoy.<br>
-<br>
-A small work by A.L.AJAY KUMAR
+
 
